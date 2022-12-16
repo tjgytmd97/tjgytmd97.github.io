@@ -200,7 +200,7 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #21e5f3 !important;
   }
 
   .text-primary {
@@ -449,6 +449,13 @@ a:active {
  
 #awards {
     background: #f0f0f0;
+}
+.award img{
+    width:50%;
+    margin:auto;
+    display:block;
+    border: solid 0.5px;
+    border-color: black;
 }
 
 #award-box {
